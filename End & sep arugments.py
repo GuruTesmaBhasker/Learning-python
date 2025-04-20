@@ -1,0 +1,6 @@
+print("2+3", end="=")
+print (2+3)
+print("Laptop","mobile","books","mouse","keyboard")
+print("Laptop","mobile","books","mouse","keyboard", sep='&')
+print("hi","hi", sep="...", end="...")
+print("hi")
